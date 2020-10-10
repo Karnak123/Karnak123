@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning machine and deep learning
 - 👯 I’m looking to collaborate on Python projects
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: sagnikmazumdar37@gmail.com
 
 <h3 align="center"> Language & Skills </h3>
