@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 
 - Python
 - C++
-- Kotlin
+- JavaScript
 - Data Structures and Algorithms
 - Machine Learning
 - Deep learning
 - Natural language processing
-- App Development
 
 <h4 align="center">Polynomial time is great, exponential time is bad, and infinite time gets you fired.</h4>
 
