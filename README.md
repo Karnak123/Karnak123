@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Karnak123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Karnak's stats](https://github-readme-stats.vercel.app/api?username=Karnak123&count_private=true&show_icons=true&theme=radical)
