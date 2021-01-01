@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sagnikmazumder37/" target="blank"><img align="center" src="https://img.icons8.com/android/2x/linkedin.png" alt="Karnak123" height="40" width="40" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karnak123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Karnak123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ![Karnak's stats](https://github-readme-stats.vercel.app/api?username=Karnak123&count_private=true&show_icons=true&theme=radical)
