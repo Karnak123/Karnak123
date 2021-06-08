@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python projects
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sagnikmazumdar37@gmail.com
+- ⚡ Fun fact: I broke on of my incisors in a cycling accident
 
 <h3 align="center"> Language & Skills </h3>
 
@@ -39,5 +40,4 @@ Here are some ideas to get you started:
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Karnak123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-
 ![Karnak's stats](https://github-readme-stats.vercel.app/api?username=Karnak123&count_private=true&show_icons=true&theme=radical)
