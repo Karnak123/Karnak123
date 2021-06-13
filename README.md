@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python projects
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sagnikmazumdar37@gmail.com
-- ⚡ Fun fact: I broke on of my incisors in a cycling accident
+- ⚡ Fun fact: I broke one of my incisors in a cycling accident
 
 <h3 align="center"> Language & Skills </h3>
 
