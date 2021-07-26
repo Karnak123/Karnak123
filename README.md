@@ -11,8 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h4 align="center">Polynomial time is great, exponential time is bad, and infinite time gets you fired.</h4>
+
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Sagnik Mazumder. I Love ❤️ programming and am currently in 3rd year of B.Tech CSE. </p>
+<p align="center"> I am Sagnik Mazumder. I Love ❤️ programming and am currently in my junior of B.Tech CSE.<br>
+Individual links are old fashioned, checkout https://bio.link/sagnik</p>
 <img align="right" src="https://p.kindpng.com/picc/s/70-707985_anime-art-fanart-manga-boy-minty-cute-heart.png" height="300" width="300">
 
 - 🌱 I’m currently learning machine and deep learning
@@ -21,23 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sagnikmazumdar37@gmail.com
 - ⚡ Fun fact: I broke one of my incisors in a cycling accident
 
-<h3 align="center"> Language & Skills </h3>
-
-- Python
-- C++
-- JavaScript
-- Data Structures and Algorithms
-- Machine Learning
-- Deep learning
-- Natural language processing
-
-<h4 align="center">Polynomial time is great, exponential time is bad, and infinite time gets you fired.</h4>
-
-<p align="center">
-<a href="https://www.instagram.com/sagnik_mazumder_/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/instagram-new.png" alt="Karnak123" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/sagnikmazumder37/" target="blank"><img align="center" src="https://img.icons8.com/android/2x/linkedin.png" alt="Karnak123" height="40" width="40" /></a>
-</p>
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Karnak123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Karnak123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-![Karnak's stats](https://github-readme-stats.vercel.app/api?username=Karnak123&count_private=true&show_icons=true&theme=radical)
+<!-- ![Karnak's stats](https://github-readme-stats.vercel.app/api?username=Karnak123&count_private=true&show_icons=true&theme=radical) -->
+![Metrics](https://github.com/Karnak123/Karnak123/blob/main/github-metrics.svg)
