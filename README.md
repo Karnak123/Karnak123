@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 <h4 align="center">Polynomial time is great, exponential time is bad, and infinite time gets you fired.</h4>
 
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Sagnik Mazumder. I Love ❤️ programming and am currently in my junior of B.Tech CSE.<br>
+<p align="center"> I am Sagnik Mazumder. I Love ❤️ music and solving problems. <br>
 Individual links are old fashioned, checkout https://bio.link/sagnik</p>
 <img align="right" src="https://p.kindpng.com/picc/s/70-707985_anime-art-fanart-manga-boy-minty-cute-heart.png" height="300" width="300">
 
-- 🌱 I’m currently learning machine and deep learning
-- 👯 I’m looking to collaborate on Python projects
+- 🌱 I’m currently developing lending produts with Salesforce
+- 👯 I’m looking to collaborate on Hackathons
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sagnikmazumdar37@gmail.com
 - ⚡ Fun fact: I broke one of my incisors in a cycling accident
