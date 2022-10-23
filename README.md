@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Individual links are old fashioned, checkout https://bio.link/sagnik</p>
 <img align="right" src="https://p.kindpng.com/picc/s/70-707985_anime-art-fanart-manga-boy-minty-cute-heart.png" height="300" width="300">
 
-- 🌱 I’m currently developing lending produts with Salesforce
+- 🌱 I’m currently developing lending products with Salesforce
 - 👯 I’m looking to collaborate on Hackathons
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: sagnikmazumdar37@gmail.com
